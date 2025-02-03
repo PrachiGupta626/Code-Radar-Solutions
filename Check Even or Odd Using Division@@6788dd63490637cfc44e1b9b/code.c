@@ -4,5 +4,5 @@ int main(){
     scanf("%d",&a);
     if (a%2==0) printf("Even");
     else printf("Odd");
-    return o;
+    return 0;
 }
