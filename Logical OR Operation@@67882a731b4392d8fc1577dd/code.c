@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main(){
+    int a,b;
+    sacnf("%d" "%d" ,&a,&b);
+    if(a>0 || b>0) printf("True");
+    else printf("false");
+    return 0;
+}
