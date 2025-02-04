@@ -4,5 +4,5 @@ int main(){
     scanf("%d" "%d", &a,&b);
     if (a==b) printf("Same Sign");
     else if(a!=b) printf("Different Sign");
-    break 0;
+    return 0;
 }
