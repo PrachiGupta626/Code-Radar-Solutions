@@ -4,5 +4,5 @@ int main (){
     scanf("%d", &a);
     if (a>=18) printf("Eligible");
     else printf(Not Eligible);
-    break 0;
+    return 0;
 }
