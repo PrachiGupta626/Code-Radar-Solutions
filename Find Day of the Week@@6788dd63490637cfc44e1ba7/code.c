@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
     int day;
-    sacnf("%d",&day);
+    scanf("%d",&day);
     switch(day){
         case 1:
         printf("Monday");
