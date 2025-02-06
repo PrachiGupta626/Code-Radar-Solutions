@@ -2,7 +2,7 @@
 int main(){
     int day;
     sacnf("%d",&day);
-    switch(day);{
+    switch(day){
         case 1:
         printf("Monday");
         break;
