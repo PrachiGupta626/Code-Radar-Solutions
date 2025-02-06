@@ -8,6 +8,6 @@ int main(){
         printf(1"Same Sign");
     }
     else{
-        printf("Different Sign")
+        printf("Different Sign");
     }
 }
